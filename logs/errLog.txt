@@ -1,0 +1,5 @@
+04/11/2022	15:30:00	8e52ede5-aac7-4d0f-ad75-3092a76b13a3	Error: Not allowed by CORS
+06/11/2022	11:51:29	5728bb2e-75b2-4961-b049-43dbc9660520	SyntaxError: Unexpected token d in JSON at position 15
+06/11/2022	11:52:29	4cb6512e-b40b-4bc2-a206-b43338effc55	SyntaxError: Unexpected token d in JSON at position 15
+06/11/2022	11:57:46	45f12dce-1390-4b5c-89e0-4c2f637e664c	SyntaxError: Unexpected token d in JSON at position 15
+06/11/2022	11:57:59	d72387a6-bae0-4f40-9a67-248917965793	SyntaxError: Unexpected token d in JSON at position 16
